@@ -12,12 +12,12 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  author = "Jason Lee"
+  # authorlocation = ""
+  # authorwebsite = "http://vjeantet.fr"
+  # bio= "my bio"
   logo = ""
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
   githubName = ""
