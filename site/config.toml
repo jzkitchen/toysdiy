@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://heuristic-swanson-43bf0e.netlify.com/"
 languageCode = "en-us"
 title = "Casper Theme"
 theme = "hugo-theme-casper"
