@@ -150,9 +150,12 @@ table { border-collapse: collapse; border-spacing: 0; }
     content: "";
     display: inline-block;
     background-image: url('../svg/twitter.svg');
-    color: #BBC7CC;
+    fill: #BBC7CC;
     width: 1em;
     height: 1em;
+}
+.icon-twitter:before:hover {
+    fill: #50585D;
 }
 .icon-google-plus:before {
     content: "\f206";
