@@ -148,8 +148,11 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-twitter:before {
     /*content: "\f202";*/
     content: "";
+    display: inline-block;
     background-image: url('../svg/twitter.svg');
+    color: #BBC7CC;
     width: 1em;
+    height: 1em;
 }
 .icon-google-plus:before {
     content: "\f206";
