@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/cover.jpg"
+  cover = ""
   author = "Jason Lee"
   # authorlocation = ""
   # authorwebsite = "http://vjeantet.fr"
