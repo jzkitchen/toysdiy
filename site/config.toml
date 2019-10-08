@@ -1,7 +1,7 @@
 baseurl = "https://heuristic-swanson-43bf0e.netlify.com/"
 languageCode = "zh-HK"
 title = "兒童玩具DIY"
-theme = "hugo-theme-casper"
+theme = "hestia-pure"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
